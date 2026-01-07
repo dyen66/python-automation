@@ -13,7 +13,7 @@ Manually updating prices and generating charts in Excel is time-consuming and pr
 
 ## **🛠️ Tech Stack**
 
-* **Language:** Python 3.x  
+* **Language:** Python  
 * **Library:** openpyxl (Excel integration)
 
 ## **📋 Features & Logic**
@@ -31,8 +31,8 @@ Run the script:
 Bash  
 python process\_workbook.py
 
-2.   
-3. Open updated\_file.xlsx to see the new prices in Column 5 and the generated Bar Chart.
+2. Run script: pip install openpyxl  
+4. Open updated\_file.xlsx to see the new prices in Column 5 and the generated Bar Chart.
 
 ## **📊 Sample Transformation**
 
